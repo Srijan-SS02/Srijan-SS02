@@ -25,7 +25,6 @@
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-098?style=flat-square&logo=tailwind)
-![React](https://img.shields.io/badge/-Reactjs%20-311C87?style=flat-square&logo=React)
 
 ## 📫 Connect with me here:
  

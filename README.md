@@ -21,8 +21,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c)
 
+
 ### Libraries & Framework :
 
+![Django](https://img.shields.io/badge/-Django-3435C?style=flat-square&logo=django)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-098?style=flat-square&logo=tailwind)
 
